@@ -1,0 +1,6 @@
+1 - Sempre utilizar alt="" nas IMG
+2 - Não depender de placeholder, utilizar o label
+3 - não utilizar textos em maiusculos diretamente no html, modificalos via css.
+4 - nao utilizar links como button
+5 - ao utilizar textos em ingles, adicionar o atrituto lang="en-us"
+6 - adicionar o tabindex ao html para pessoas que navegam pelo teclado.
